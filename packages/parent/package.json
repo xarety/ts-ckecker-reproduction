@@ -1,0 +1,16 @@
+{
+    "name": "parent",
+    "version": "0.0.0",
+    "description": "",
+    "main": "./dist/index.js",
+    "files": [
+        "dist",
+        "src"
+    ],
+    "scripts": {
+        "start": "webpack --watch"
+    },
+    "dependencies": {
+        "child": "^0.0.0"
+    }
+}

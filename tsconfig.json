@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "incremental": true,
+        "target": "es6",
+        "module": "commonjs",
+        "lib": ["es2015", "es2017", "dom", "esnext"],
+        "jsx": "react",
+        "declaration": true,
+        "declarationMap": true,
+        "sourceMap": true,
+        "strict": true,
+        "esModuleInterop": true,
+        "experimentalDecorators": true,
+        "useDefineForClassFields": true,
+        "emitDecoratorMetadata": true,
+        "forceConsistentCasingInFileNames": true
+    }
+}
